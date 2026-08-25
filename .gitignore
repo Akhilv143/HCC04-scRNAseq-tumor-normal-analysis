@@ -1,0 +1,7 @@
+data/
+objects/
+*.rds
+*.tar.gz
+*.gz
+.Rhistory
+.RData

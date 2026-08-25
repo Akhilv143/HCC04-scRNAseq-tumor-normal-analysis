@@ -1,0 +1,13 @@
+"site","celltype","n_cells","proportion"
+"Normal","B",188,0.055359246171967
+"Normal","Endothelial",477,0.140459363957597
+"Normal","Fibroblast",68,0.0200235571260306
+"Normal","Hepatocyte",326,0.0959952885747939
+"Normal","Myeloid",829,0.244110718492344
+"Normal","T/NK",1508,0.444051825677267
+"Tumor","B",24,0.00685518423307626
+"Tumor","Endothelial",30,0.00856898029134533
+"Tumor","Fibroblast",90,0.025706940874036
+"Tumor","Hepatocyte",2454,0.700942587832048
+"Tumor","Myeloid",650,0.185661239645815
+"Tumor","T/NK",253,0.0722650671236789
